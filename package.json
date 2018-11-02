@@ -1,0 +1,17 @@
+{
+  "name": "image-uploader",
+  "version": "1.0.0",
+  "description": "A simple react-based image uploader using Next.js and hopefully Firebase",
+  "main": "index.js",
+  "dependencies": {
+    "next": "^7.0.2",
+    "react": "^16.6.0",
+    "react-dom": "^16.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Mike Murray",
+  "license": "MIT"
+}
